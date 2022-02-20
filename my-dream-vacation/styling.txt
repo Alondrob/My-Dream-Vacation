@@ -1,0 +1,9 @@
+react-bootstrap gives the NavBar component.
+it has about 6 attributes worth knowing:
+1) expand
+    expand is a boolean, when i define wxpand property i'm saying to the nav bar when to collapse into a neat 
+    the larger it is the faster it will collaps,
+    // on toggle is a function that that is set to return a boolean based on the navbar 
+2) bg, variant
+3) sticky, fixed
+4) colorsOnSellect
