@@ -1,5 +1,35 @@
 .container {
   padding: 0 2rem;
+  background-color: whitesmoke;
+}
+
+.trainForm {
+  
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+
+}
+
+.trainForm > form > div >label {
+  display: inline-block;
+  flex-direction: column;
+ width: 30%;
+ height: 10%;
+ position: absolute;
+ border: 1px solid black;
+  
+}
+.trainForm > form >input {
+   display: flex;
+  flex-direction: column;
+  border:2px solid blue;
+  width:30%;
+  height:30px;
+	position: relative;
+  top: 25px;
+  background-color:lightgray
+  
 }
 
 .main {

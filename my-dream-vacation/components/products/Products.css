@@ -1,0 +1,9 @@
+
+.trains-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: 180px 200px;
+  gap: 10px;
+  background-color: #2196F3;
+  padding: 10px;
+}
